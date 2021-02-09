@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TryRetrofitKt</string>
+    <string name="nama">nama</string>
+    <string name="email_mail_com">email@mail.com</string>
+    <string name="telepon">telepon</string>
+    <string name="alamat">alamat</string>
+</resources>
